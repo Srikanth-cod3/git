@@ -6,3 +6,4 @@ this is for my git and git hub course
 # this is the feature branch
 
 # this is first commit
+# this is second commit
